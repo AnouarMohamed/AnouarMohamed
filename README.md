@@ -4,7 +4,6 @@ I'm a software engineering student based in Casablanca. I spend most of my time 
 
 I work a lot with containers and self-hosted infrastructure — Docker Swarm, k3s, Kubernetes — and I enjoy designing backend systems that are clean, observable, and actually maintainable. I've shipped full-stack products, built DevOps pipelines from scratch, and written tools that ended up in production. When something interests me I go deep on it.
 
-Outside of tech I compete in karate, hold a national refereeing license, and play chess at a decent level. I think the discipline carries over.
 
 ---
 
