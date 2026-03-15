@@ -2,7 +2,7 @@
 
 I'm a software engineering student based in Casablanca. I spend most of my time building things — apps, tools, infrastructure, whatever the problem calls for. I like understanding how systems work at every layer, from the application code down to the metal, and I'm constantly picking up new things on my own.
 
-I work a lot with containers and self-hosted infrastructure — Docker Swarm, k3s, Kubernetes — and I enjoy designing backend systems that are clean, observable, and actually maintainable. I've shipped full-stack products, built DevOps pipelines from scratch, and written tools that ended up in production. When something interests me I go deep on it.
+I work a lot with containers and self-hosted infrastructure, Docker Swarm, k3s, Kubernetes; and I enjoy designing backend systems that are clean, observable, and actually maintainable. I've shipped full-stack products, built DevOps pipelines from scratch, and written tools that ended up in production. When something interests me I go deep on it.
 
 
 ---
