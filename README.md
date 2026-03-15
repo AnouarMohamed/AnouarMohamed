@@ -1,5 +1,3 @@
-# Mohamed Anouar
-
 **Engineering Student — Software & Cloud**  
 Casablanca, Morocco
 
