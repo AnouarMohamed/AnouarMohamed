@@ -1,4 +1,4 @@
-# Hey, I'm Anouar
+**Engineering Student — Software & Cloud**  
 
 I'm a software engineering student based in Casablanca. I spend most of my time building things — apps, tools, infrastructure, whatever the problem calls for. I like understanding how systems work at every layer, from the application code down to the metal, and I'm constantly picking up new things on my own.
 
