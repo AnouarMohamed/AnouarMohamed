@@ -60,6 +60,11 @@ I work a lot with containers and self-hosted infrastructure, Docker Swarm, k3s, 
 |--------|-------------|-------|
 | [KubeLens AI](https://github.com/AnouarMohamed/KubLens-AI) | AI-powered Kubernetes operations platform — diagnostics, incident management, remediation workflows | Go · React · Python · Helm · Docker |
 
+| Project                                | Description                                                                                                                              | Stack                                          |
+| -------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
+| [Hybrid Cloud Monitoring Infrastructure](https://github.com/AnouarMohamed/VPCzabbix.git)  | AWS-based centralized monitoring system — Zabbix deployed with Docker to supervise Linux and Windows servers across a hybrid environment | AWS · Zabbix · Docker · Linux · Windows Server |
+
+
 | Project                                                         | Description                                                                                                                                               | Stack                                                               |
 | --------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
 | [ML-Playground](https://github.com/AnouarMohamed/ML-Playground) | Interactive machine learning visualization platform — real-time training, decision-boundary rendering, and parameter tuning across multiple ML algorithms | React · TypeScript · Flask · Python · Scikit-learn · NumPy · Docker |
