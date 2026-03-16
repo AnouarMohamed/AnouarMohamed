@@ -72,11 +72,3 @@ I work a lot with containers and self-hosted infrastructure, Docker Swarm, k3s, 
 | Project                                                                                                         | Description                                                                                                                                   | Stack                                                                          |
 | --------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
 | [Mundiapolis Library Management System](https://github.com/AnouarMohamed/Mundiapolis-Library-Management-System) | Full-stack university library platform — book discovery, borrow/return workflows, reviews, admin analytics, and automated reminders and fines | Next.js · React · TypeScript · MySQL · Drizzle ORM · NextAuth · Redis · Docker |
-
-
----
-
-![Arabic](https://img.shields.io/badge/Arabic-Native-black?style=flat-square)
-![English](https://img.shields.io/badge/English-C2-black?style=flat-square)
-![French](https://img.shields.io/badge/French-C1-black?style=flat-square)
-![Chinese](https://img.shields.io/badge/Chinese-B1-black?style=flat-square)
