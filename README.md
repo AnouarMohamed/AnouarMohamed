@@ -60,6 +60,15 @@ I work a lot with containers and self-hosted infrastructure, Docker Swarm, k3s, 
 |--------|-------------|-------|
 | [KubeLens AI](https://github.com/AnouarMohamed/KubLens-AI) | AI-powered Kubernetes operations platform — diagnostics, incident management, remediation workflows | Go · React · Python · Helm · Docker |
 
+| Project                                                         | Description                                                                                                                                               | Stack                                                               |
+| --------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| [ML-Playground](https://github.com/AnouarMohamed/ML-Playground) | Interactive machine learning visualization platform — real-time training, decision-boundary rendering, and parameter tuning across multiple ML algorithms | React · TypeScript · Flask · Python · Scikit-learn · NumPy · Docker |
+
+| Project                                                                                                         | Description                                                                                                                                   | Stack                                                                          |
+| --------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| [Mundiapolis Library Management System](https://github.com/AnouarMohamed/Mundiapolis-Library-Management-System) | Full-stack university library platform — book discovery, borrow/return workflows, reviews, admin analytics, and automated reminders and fines | Next.js · React · TypeScript · MySQL · Drizzle ORM · NextAuth · Redis · Docker |
+
+
 ---
 
 ![Arabic](https://img.shields.io/badge/Arabic-Native-black?style=flat-square)
