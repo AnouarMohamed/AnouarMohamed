@@ -4,8 +4,6 @@
 
 Software Engineering Student · Casablanca, MA
 
-[![Profile Views](https://komarev.com/ghpvc/?username=AnouarMohamed&style=flat-square&color=ffffff&labelColor=0d1117&label=profile+views)](https://github.com/AnouarMohamed)
-
 </div>
 
 ---
