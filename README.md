@@ -162,6 +162,3 @@ Full-stack university library platform. Borrow/return workflows, admin analytics
 ## Contact
 
 Open to internships, freelance, and junior DevOps / cloud roles.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/AnouarMohamed)
-[![Email](https://img.shields.io/badge/Email-black?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
