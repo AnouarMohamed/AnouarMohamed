@@ -1,8 +1,10 @@
 <div align="center">
 
-**Anouar Mohamed**
+# Anouar Mohamed
 
-Software Engineering Student · Casablanca, MA
+**DevOps · DevSecOps · Cloud Infrastructure Engineer**
+
+Casablanca, MA · Open to Remote
 
 </div>
 
@@ -10,66 +12,80 @@ Software Engineering Student · Casablanca, MA
 
 ## About
 
-Software engineering student based in Casablanca. I work mostly in backend and infrastructure — building and deploying services, managing containerized environments, and setting up CI/CD pipelines from scratch. I've handled VPS and VM lab setups, self-hosted Kubernetes clusters, and built monitoring stacks in production. Lately I've been going deeper into cloud security and DevSecOps.
+Software engineering student focused on DevOps, DevSecOps, and cloud infrastructure. I build and manage production-grade Kubernetes clusters, provision cloud infrastructure with Terraform, and design CI/CD pipelines that cover the full lifecycle from code to deployment. I've worked across VPS environments, VM labs, and hybrid cloud setups — setting up monitoring stacks, securing containerized workloads, and automating operations end to end.
 
-I also build full-stack products and tools on the side, mostly in Go, Python, and TypeScript.
+Backend services in Go and Java. Infrastructure on AWS and Linux. Security baked in from the start.
 
 ---
 
-## Interests
+## Certifications
 
-- Cloud Infrastructure & Architecture
-- Cybersecurity — DevSecOps, Cloud Security, Penetration Testing
-- Backend Systems Engineering
-- Container Orchestration & Platform Engineering
-- Zero-trust network design
-- Supply chain security (SBOM, Sigstore, Cosign)
-- Infrastructure as Code at scale
+![AWS Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-black?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Huawei Cloud Computing](https://img.shields.io/badge/Huawei_Cloud_Computing-black?style=flat-square&logo=huawei&logoColor=white)
+
+---
+
+## Expertise
+
+**Core**
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-black?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-black?style=flat-square&logo=terraform&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-black?style=flat-square&logo=githubactions&logoColor=white)
+![Cloud Security](https://img.shields.io/badge/Cloud_Security-black?style=flat-square&logo=vault&logoColor=white)
+![DevSecOps](https://img.shields.io/badge/DevSecOps-black?style=flat-square&logo=owasp&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-black?style=flat-square&logo=cisco&logoColor=white)
+
+**Currently deepening**
+
+![eBPF](https://img.shields.io/badge/eBPF-black?style=flat-square&logo=linux&logoColor=white)
+![Platform Engineering](https://img.shields.io/badge/Platform_Engineering-black?style=flat-square&logo=cncf&logoColor=white)
+![GitOps](https://img.shields.io/badge/GitOps-black?style=flat-square&logo=argo&logoColor=white)
+![SLSA](https://img.shields.io/badge/SLSA-black?style=flat-square&logo=googlechrome&logoColor=white)
+![CNAPP](https://img.shields.io/badge/CNAPP-black?style=flat-square&logo=aquasec&logoColor=white)
+![Zero Trust](https://img.shields.io/badge/Zero_Trust-black?style=flat-square&logo=cloudflare&logoColor=white)
+![Supply Chain Security](https://img.shields.io/badge/Supply_Chain_Security-black?style=flat-square&logo=sigstore&logoColor=white)
 
 ---
 
 ## Stack
 
-**Languages**
+**Languages & Scripting**
 
 ![Go](https://img.shields.io/badge/Go-black?style=flat-square&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript&logoColor=white)
-![C](https://img.shields.io/badge/C-black?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-black?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-black?style=flat-square&logo=gnubash&logoColor=white)
 
-**Backend & Frameworks**
+**Frameworks**
 
 ![Gin](https://img.shields.io/badge/Gin-black?style=flat-square&logo=go&logoColor=white)
 ![Fiber](https://img.shields.io/badge/Fiber-black?style=flat-square&logo=go&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-black?style=flat-square&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-black?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-black?style=flat-square&logo=fastapi&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-black?style=flat-square&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-black?style=flat-square&logo=vuedotjs&logoColor=white)
 
-**Infrastructure & DevOps**
+**Containers & Orchestration**
 
 ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-black?style=flat-square&logo=kubernetes&logoColor=white)
 ![k3s](https://img.shields.io/badge/k3s-black?style=flat-square&logo=k3s&logoColor=white)
 ![Docker Swarm](https://img.shields.io/badge/Docker_Swarm-black?style=flat-square&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-black?style=flat-square&logo=terraform&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-black?style=flat-square&logo=helm&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-black?style=flat-square&logo=argo&logoColor=white)
+
+**Infrastructure as Code**
+
+![Terraform](https://img.shields.io/badge/Terraform-black?style=flat-square&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-black?style=flat-square&logo=ansible&logoColor=white)
+![Pulumi](https://img.shields.io/badge/Pulumi-black?style=flat-square&logo=pulumi&logoColor=white)
+
+**CI/CD**
+
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?style=flat-square&logo=githubactions&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-black?style=flat-square&logo=gitlab&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-black?style=flat-square&logo=argo&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-black?style=flat-square&logo=jenkins&logoColor=white)
 
 **Cloud & Platforms**
 
@@ -78,14 +94,22 @@ I also build full-stack products and tools on the side, mostly in Go, Python, an
 ![Nginx](https://img.shields.io/badge/Nginx-black?style=flat-square&logo=nginx&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-black?style=flat-square&logo=cloudflare&logoColor=white)
 
-**Observability & Security**
+**Observability**
 
 ![Prometheus](https://img.shields.io/badge/Prometheus-black?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-black?style=flat-square&logo=grafana&logoColor=white)
-![Zabbix](https://img.shields.io/badge/Zabbix-black?style=flat-square&logo=zabbix&logoColor=white)
 ![Loki](https://img.shields.io/badge/Loki-black?style=flat-square&logo=grafana&logoColor=white)
-![Trivy](https://img.shields.io/badge/Trivy-black?style=flat-square&logo=aquasec&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-black?style=flat-square&logo=zabbix&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-black?style=flat-square&logo=opentelemetry&logoColor=white)
+![Jaeger](https://img.shields.io/badge/Jaeger-black?style=flat-square&logo=jaeger&logoColor=white)
+
+**Security**
+
 ![Vault](https://img.shields.io/badge/Vault-black?style=flat-square&logo=vault&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-black?style=flat-square&logo=aquasec&logoColor=white)
+![Falco](https://img.shields.io/badge/Falco-black?style=flat-square&logo=falco&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-black?style=flat-square&logo=sonarqube&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-black?style=flat-square&logo=owasp&logoColor=white)
 
 **Databases**
 
@@ -98,12 +122,27 @@ I also build full-stack products and tools on the side, mostly in Go, Python, an
 
 ## Featured Projects
 
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [**KubeLens AI**](https://github.com/AnouarMohamed/KubLens-AI) | AI-powered Kubernetes operations platform — diagnostics, incident management, and automated remediation workflows | Go · React · Python · Helm · Docker |
-| [**Hybrid Cloud Monitoring Infrastructure**](https://github.com/AnouarMohamed/VPCzabbix.git) | AWS-based centralized monitoring system using Zabbix over Docker to supervise Linux and Windows servers across a hybrid environment | AWS · Zabbix · Docker · Linux · Windows Server |
-| [**ML-Playground**](https://github.com/AnouarMohamed/ML-Playground) | Interactive machine learning visualization platform with real-time training, decision-boundary rendering, and parameter tuning across multiple algorithms | React · TypeScript · Flask · Scikit-learn · Docker |
-| [**Library Management System**](https://github.com/AnouarMohamed/Mundiapolis-Library-Management-System) | Full-stack university library platform with borrow/return workflows, admin analytics, and automated reminders and fines | Next.js · TypeScript · MySQL · Drizzle ORM · Redis · Docker |
+**[KubeLens AI](https://github.com/AnouarMohamed/KubLens-AI)**
+AI-powered Kubernetes operations platform. Handles cluster diagnostics, incident detection, and automated remediation workflows. Built to reduce MTTR on production Kubernetes environments.
+`Go` `React` `Python` `Helm` `Docker`
+
+---
+
+**[Hybrid Cloud Monitoring Infrastructure](https://github.com/AnouarMohamed/VPCzabbix.git)**
+Centralized monitoring system deployed on AWS. Zabbix over Docker supervising Linux and Windows servers across a hybrid environment — full metrics, alerting, and dashboards.
+`AWS` `Zabbix` `Docker` `Linux` `Windows Server`
+
+---
+
+**[ML-Playground](https://github.com/AnouarMohamed/ML-Playground)**
+Interactive machine learning visualization platform. Real-time training, decision-boundary rendering, and parameter tuning across multiple algorithms — fully containerized.
+`React` `TypeScript` `Flask` `Scikit-learn` `Docker`
+
+---
+
+**[Library Management System](https://github.com/AnouarMohamed/Mundiapolis-Library-Management-System)**
+Full-stack university library platform. Borrow/return workflows, admin analytics dashboard, automated reminders and fine management.
+`Next.js` `TypeScript` `MySQL` `Drizzle ORM` `Redis` `Docker`
 
 ---
 
@@ -122,6 +161,7 @@ I also build full-stack products and tools on the side, mostly in Go, Python, an
 
 ## Contact
 
-Open to freelance work, collaboration, and open source contributions.
+Open to internships, freelance, and junior DevOps / cloud roles.
 
-Reach out if you're working on something in infrastructure, security, or backend engineering.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/AnouarMohamed)
+[![Email](https://img.shields.io/badge/Email-black?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
