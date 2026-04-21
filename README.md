@@ -12,7 +12,7 @@ Casablanca, MA · Open to Remote
 
 ## About
 
-Software engineering student focused on DevOps, DevSecOps, and cloud infrastructure. I build and manage production-grade Kubernetes clusters, provision cloud infrastructure with Terraform, and design CI/CD pipelines that cover the full lifecycle from code to deployment. I've worked across VPS environments, VM labs, and hybrid cloud setups — setting up monitoring stacks, securing containerized workloads, and automating operations end to end.
+Software engineering student focused on DevOps, DevSecOps, and cloud infrastructure. I build and manage production-grade Kubernetes clusters, provision cloud infrastructure with Terraform, and design CI/CD pipelines that cover the full lifecycle from code to deployment. I've worked across VPS environments, VM labs, and hybrid cloud setups; setting up monitoring stacks, securing containerized workloads, and automating operations end to end.
 
 Backend services in Go and Java. Infrastructure on AWS and Linux. Security baked in from the start.
 
