@@ -28,25 +28,25 @@ Backend services in Go and Java. Infrastructure on AWS and Linux. Security baked
 ## Expertise
 
 **Core**
-
+ 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-black?style=flat-square&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-black?style=flat-square&logo=terraform&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-black?style=flat-square&logo=githubactions&logoColor=white)
-![Cloud Security](https://img.shields.io/badge/Cloud_Security-black?style=flat-square&logo=vault&logoColor=white)
-![DevSecOps](https://img.shields.io/badge/DevSecOps-black?style=flat-square&logo=owasp&logoColor=white)
+![Cloud Security](https://img.shields.io/badge/Cloud_Security-black?style=flat-square&logo=letsencrypt&logoColor=white)
+![DevSecOps](https://img.shields.io/badge/DevSecOps-black?style=flat-square&logo=springsecurity&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-black?style=flat-square&logo=cisco&logoColor=white)
-
+![Networking](https://img.shields.io/badge/Networking-black?style=flat-square&logo=cloudflare&logoColor=white)
+ 
 **Currently deepening**
-
+ 
 ![eBPF](https://img.shields.io/badge/eBPF-black?style=flat-square&logo=linux&logoColor=white)
-![Platform Engineering](https://img.shields.io/badge/Platform_Engineering-black?style=flat-square&logo=cncf&logoColor=white)
+![Platform Engineering](https://img.shields.io/badge/Platform_Engineering-black?style=flat-square&logo=kubernetes&logoColor=white)
 ![GitOps](https://img.shields.io/badge/GitOps-black?style=flat-square&logo=argo&logoColor=white)
-![SLSA](https://img.shields.io/badge/SLSA-black?style=flat-square&logo=googlechrome&logoColor=white)
+![SLSA](https://img.shields.io/badge/SLSA-black?style=flat-square&logo=sigstore&logoColor=white)
 ![CNAPP](https://img.shields.io/badge/CNAPP-black?style=flat-square&logo=aquasec&logoColor=white)
-![Zero Trust](https://img.shields.io/badge/Zero_Trust-black?style=flat-square&logo=cloudflare&logoColor=white)
-![Supply Chain Security](https://img.shields.io/badge/Supply_Chain_Security-black?style=flat-square&logo=sigstore&logoColor=white)
+![Zero Trust](https://img.shields.io/badge/Zero_Trust-black?style=flat-square&logo=authentik&logoColor=white)
+![Supply Chain Security](https://img.shields.io/badge/Supply_Chain_Security-black?style=flat-square&logo=dependabot&logoColor=white)
 
 ---
 
