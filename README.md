@@ -54,5 +54,4 @@ Current focus
 - Go, TypeScript, Python, and cloud-native tooling
 ```
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnouarMohamed&theme=github-compact&hide_border=true&height=220" /> 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnouarMohamed&theme=github_dark" />                
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnouarMohamed&theme=github-compact&hide_border=true&height=220" />               
