@@ -43,15 +43,14 @@ I use GitHub to document practical systems work: infrastructure tooling, CI/CD s
   <img src="https://img.shields.io/badge/Trivy-1904DA?style=flat&logo=aqua&logoColor=white" />
   <img src="https://img.shields.io/badge/DevSecOps-111827?style=flat" />
 </p>
-
-
+<img src="https://github-readme-stats.vercel.app/api?username=AnouarMohamed&show_icons=true&theme=dark" alt="GitHub Stats" />
 
 ```text
 Current focus
 - Kubernetes diagnostics and GitOps workflows
-- CI/CD hardening and security automation
+- CI/CD hardening and security automation                  
 - Observability, monitoring, and incident analysis
 - Go, TypeScript, Python, and cloud-native tooling
 ```
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnouarMohamed&theme=github-compact&hide_border=true&height=220" />               
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnouarMohamed&theme=github-compact&hide_border=true&height=220" />
