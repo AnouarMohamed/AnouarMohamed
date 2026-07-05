@@ -43,7 +43,6 @@ I use GitHub to document practical systems work: infrastructure tooling, CI/CD s
   <img src="https://img.shields.io/badge/Trivy-1904DA?style=flat&logo=aqua&logoColor=white" />
   <img src="https://img.shields.io/badge/DevSecOps-111827?style=flat" />
 </p>
-<img src="https://github-readme-stats.vercel.app/api?username=AnouarMohamed&show_icons=true&theme=dark" alt="GitHub Stats" />
 
 ```text
 Current focus
