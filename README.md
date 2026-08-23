@@ -1,6 +1,6 @@
 ## Anouar Mohamed
 
-DevSecOps / cloud-native infrastructure engineer. Focused on Kubernetes security, zero-trust architecture, and systems-level development. Contributing to open-source security tooling.
+DevSecOps / cloud-native infrastructure engineer. Focused on Kubernetes security, zero-trust architecture, and systems-level development, with hands-on experience across container orchestration, infrastructure hardening, and policy-driven security automation. Contributing to open-source security tooling.
 
 ![Go](https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=00ADD8)
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB)
