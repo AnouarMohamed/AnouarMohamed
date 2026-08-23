@@ -17,5 +17,4 @@ DevSecOps / cloud-native infrastructure engineer. Focused on Kubernetes security
 ![Prometheus](https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&logoColor=E6522C)
 ![Grafana](https://img.shields.io/badge/Grafana-000000?style=for-the-badge&logo=grafana&logoColor=F46800)
 ![Nginx](https://img.shields.io/badge/Nginx-000000?style=for-the-badge&logo=nginx&logoColor=009639)
-![Jenkins](https://img.shields.io/badge/Jenkins-000000?style=for-the-badge&logo=jenkins&logoColor=D24939)
 ![Traefik](https://img.shields.io/badge/Traefik-000000?style=for-the-badge&logo=traefikmesh&logoColor=24A1C1)
