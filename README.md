@@ -11,4 +11,4 @@ DevSecOps / cloud-native infrastructure engineer. Focused on Kubernetes security
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-000000?style=for-the-badge&logo=argo&logoColor=EF7B4D)
 ![Istio](https://img.shields.io/badge/Istio-000000?style=for-the-badge&logo=istio&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624)
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AnouarMohamed&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
+
